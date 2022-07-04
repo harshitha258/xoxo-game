@@ -1,1 +1,1 @@
-# xoxo-game
+# tic tac toe
